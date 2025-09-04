@@ -1,2 +1,2 @@
 # ai-task-management-system
-this project contain pynb file
+this project shows the prediction of the task that are assigned to the team members
